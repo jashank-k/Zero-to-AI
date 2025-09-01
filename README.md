@@ -1,7 +1,7 @@
 **Zero-to-AI** is a collection of simple, well-commented Jupyter notebooks that teach you the *foundational skills of Artificial Intelligence* — step by step, without jargon.  
 The goal: take you from **zero** to building with **AI** in a practical, hands-on way.  
 
-🧑‍💻 **Author**: Created with learning & teaching in mind by **[Jashank Kshirsagar](https://www.linkedin.com/in/jashankkshirsagar/)**  
+🧑‍💻 **Author**: Created with learning & teaching in mind by **[Jashank Kshirsagar](https://www.linkedin.com/in/jashank-kshirsagar/)**  
 → **AI Engineer | Data Scientist | Powering Responsible AI Transformation**
 
 ## 📂 Contents  
