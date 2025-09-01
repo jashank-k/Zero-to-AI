@@ -15,7 +15,7 @@ The goal: take you from **zero** to building with **AI** in a practical, hands-o
   - Decoding tokens back into text  
   - Why this process is the backbone of all LLMs  
 
-###🔄 **Upcoming Notebooks:** 
+### 🔄 **Upcoming Notebooks:** 
 - LLM basics
 - Fine-tuning basics  
 - Prompt engineering workflows  
