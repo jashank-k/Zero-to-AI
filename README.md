@@ -14,7 +14,6 @@ The goal: take you from **Zero** to building with **AI** in a practical, hands-o
   - Loading a tokenizer  
   - Encoding input text into tokens  
   - Decoding tokens back into text  
-  - Why this process is the backbone of all LLMs  
 
 ### 🔄 **Upcoming Notebooks:** 
 - LLM basics
