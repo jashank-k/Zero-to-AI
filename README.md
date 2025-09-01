@@ -25,13 +25,14 @@ The goal: take you from **Zero** to building with **AI** in a practical, hands-o
 - And more…  
 
 
-## 🎯 Who This Is For  
+
+### 🎯 Who This Is For  
 - **Students** exploring AI for the first time  
 - **Early-career professionals** looking to upskill  
 - **AI practitioners** needing refreshers or new perspectives  
 
 
-## 🛠 How to Use  
+### 🛠 How to Use  
 1. Clone the repository or open a notebook directly in **Google Colab**.  
 2. Install dependencies (listed at the top of each notebook). For example:  
    ```bash
