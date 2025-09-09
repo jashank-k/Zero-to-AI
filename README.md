@@ -17,7 +17,7 @@ The goal: take you from **Zero** to building with **AI** in a practical, hands-o
   - Loading a pretrained language model and tokenizer.  
   - Setting up a local text generation pipeline.  
   - Asking questions and receiving generated text responses.
-
+##
 
 ### 🔄 **Upcoming Notebooks:** 
 - RAG (Retrieval-Augmented Generation) pipeline basics
