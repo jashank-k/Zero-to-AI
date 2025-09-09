@@ -18,6 +18,7 @@ The goal: take you from **Zero** to building with **AI** in a practical, hands-o
   - Setting up a local text generation pipeline.  
   - Asking questions and receiving generated text responses.
 
+
 ### 🔄 **Upcoming Notebooks:** 
 - RAG (Retrieval-Augmented Generation) pipeline basics
 - Fine-tuning basics  
