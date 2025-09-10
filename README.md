@@ -2,7 +2,7 @@
 🧑‍💻 **Author**: Created with learning & tech leadership in mind by **[Jashank Kshirsagar](https://www.linkedin.com/in/jashank-kshirsagar/)**  
 **AI Engineer | Data Scientist | Powering Responsible AI Transformation**
 
-    <button type="button" onclick="alert('Button clicked!')">Click Me!</button>
+<button type="button" onclick="alert('Button clicked!')">Click Me!</button>
 
 
 **Zero-to-AI** is a collection of simple, well-commented Jupyter notebooks that teach you the foundational skills of Artificial Intelligence — step by step, without jargon.  
