@@ -16,6 +16,7 @@ The goal: take you from **Zero** to building with **AI** in a practical, hands-o
   Learn how to build a complete, functional language model pipeline locally - No GPU Required  
 
 **3.[Design a Simple RAG Application](3_Simple_RAG_LM_ZeroToAI_Jashank.ipynb)** **✨NEW!✨**  
+Learn how to build a complete, functional Retrieval-Augmented Generation (RAG) pipeline locally – No GPU required.  
 Covers:  
 - Chunking documents and retrieving relevant context using **TF-IDF**.    
 - Building prompts that combine retrieved context with user questions.    
