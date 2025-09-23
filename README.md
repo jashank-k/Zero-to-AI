@@ -12,14 +12,14 @@ The goal: take you from **Zero** to building with **AI** in a practical, hands-o
 **1.[Encoding & Decoding with Tokenizers](1_Encoder_Decoder_ZeroToAI_Jashank.ipynb)**  
   Learn how LLMs translate human text into tokens (numbers) and back into readable text.  
   
-**2.[Building a Simple Language Model](2_Building_Simple_LM_ZeroToAI_Jashank.ipynb)** 
+**2.[Build a Simple Language Model](2_Building_Simple_LM_ZeroToAI_Jashank.ipynb)**  
   Learn how to build a complete, functional language model pipeline locally - No GPU Required  
 
-**3.[Building a Simple RAG Application](3_Simple_RAG_LM_ZeroToAI_Jashank.ipynb)** **✨NEW!✨** 
+**3.[Design a Simple RAG Application](3_Simple_RAG_LM_ZeroToAI_Jashank.ipynb)** **✨NEW!✨**  
 Covers:  
-- Chunking documents and retrieving relevant context using **TF-IDF**.  
-- Building prompts that combine retrieved context with user questions.  
-- Generating grounded answers with **Phi-2**, along with citations.
+- Chunking documents and retrieving relevant context using **TF-IDF**.    
+- Building prompts that combine retrieved context with user questions.    
+- Generating grounded answers with **Phi-2**, along with citations.  
 ##
 
 ### 🔄 **Upcoming Notebooks:** 
